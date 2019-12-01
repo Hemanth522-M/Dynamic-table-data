@@ -12,6 +12,7 @@ export default class TableView extends Component {
   state = { rows: this.props.location.state.viewData};
 
   handleBack = () => {
+    
     window.location.assign("/");
   };
 
