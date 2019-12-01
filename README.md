@@ -39,12 +39,13 @@ Table View module - view the table here
 Follow these steps to run this project in your local computer.
 
 ```
-$ https://github.com/Hemanth522-M/table-data.git
+$ https://github.com/Hemanth522-M/Dynamic-table-data.git
 $ cd table-data
 $ npm i
 ```
 
 Now, to run the project on port `3000`, run:
+
 
 ```
 $ npm start
