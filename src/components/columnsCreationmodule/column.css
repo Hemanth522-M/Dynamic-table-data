@@ -1,0 +1,55 @@
+/* column creation module css */
+#column {
+    background-color:#abdede;
+    margin: 20px;
+}
+
+#main-paper {
+    margin: 20px;
+}
+
+.heading {
+    text-align: center;
+    color: gray;
+}
+
+.inner-paper  {
+    padding: 20px;
+}
+
+.names {
+    font-size: 22px;
+}
+
+.input {
+    padding: 10px;
+    width: 572px;
+}
+
+.select  {
+    padding: 10px;
+    width: 600px;
+}
+
+.multi-values {
+    padding: 10px;
+    width: 570px;
+}
+
+.button {
+    float: right;
+    margin: -18px 10px 10px 0px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.multiButton {
+    padding: 10px;
+    margin: 10px 10px 10px 16px;
+    cursor: pointer;
+}
+
+.error {
+    margin-left: 160px;
+    color: red;
+}

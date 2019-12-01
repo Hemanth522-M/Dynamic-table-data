@@ -1,0 +1,75 @@
+#table-paper {
+    padding: 0px;
+}
+
+.table-button {
+    float: right;
+    margin: 20px 10px 10px 0px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.react-grid-Cell {
+    background-color: #ffffff;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #dddddd;
+    width: 1382px;
+}
+
+.react-grid-Grid {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin: 10px;
+}
+
+.react-grid-Canvas {
+    background-color: #ffffff;
+    /* overflow-x: hidden; */
+    display: table;
+}
+
+.react-grid-HeaderCell {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 8px;
+    font-weight: bold;
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    background: #57c0c0;
+}
+
+.react-grid-HeaderRow {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* overflow-x: hidden; */
+    display: table;
+    /* width: 42%; */
+}
+
+.rdg-editor-container input.editor-main, select.editor-main {
+    display: block;
+    width: 99%;
+    height: 34px;
+    padding: 6px 2px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
